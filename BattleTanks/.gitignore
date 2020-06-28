@@ -1,5 +1,5 @@
 *.VC.db
-
+*VC
 # Compiled Object files
 *.slo
 *.lo
